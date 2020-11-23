@@ -274,6 +274,14 @@ function hitung_biaya(supply,demand)
 	nwc += "<h3>Jadi Biaya Yang Dikeluarkan Adalah <span style='color:red;'> $"+biaya_optimal+"</span></h3><br>";
 	document.getElementById('Kotak_Tiga').innerHTML = nwc;
 }
+
+
+
+
 </script>
+<td align='left'>
+			hahhahahhahhahhah
+		</td>
+
 </body>
 </html>
