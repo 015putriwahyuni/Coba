@@ -1,0 +1,7 @@
+ADMIN -> Bisa oprasi CRUD
+Username : putri
+Password : putri123
+
+MAHASISWA -> hanya melihat data
+Username : ayu
+Password : ayu123
